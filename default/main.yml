@@ -1,0 +1,8 @@
+---
+nginx_deployment_info_dir : /usr/share/nginx/deployment_info
+nginx_logs_dir : /mnt1/logs/nginx
+nginx_error_pages_dir : /usr/share/nginx/error_pages
+nginx_ssl_dir : /etc/nginx/ssl
+nginx_server1_file : /var/www/server1.com
+nginx_server2_file : /var/www/server2.com
+nginx_server3_file : /var/www/server3.com
